@@ -1,8 +1,14 @@
 # Git Hub application
 
+Baixe as dependências com:
+
+### `yarn install`
+
 Inicie o projeto com 
 ### `yarn start` 
-Abra [http://localhost:3000](http://localhost:3000) para ver.
+
+Para ver acesse:
+### [http://localhost:3000](http://localhost:3000)
 
 ### Tela inicial
 ![Tela inicial](https://i.imgur.com/WwBM4qI.png)
